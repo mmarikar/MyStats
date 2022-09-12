@@ -1,0 +1,12 @@
+Package: MyStats
+Type: Package
+Title: Mo's application statistics
+Version: 0.1.0
+Author: Mo M
+Maintainer: Mo Marikar <marikar.mohideen@epa.gov>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
